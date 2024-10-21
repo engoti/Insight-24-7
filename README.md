@@ -42,6 +42,5 @@ $ install the "LIVE SERVER extension then press "GO LIVE" on the bottom right
 
 ## Authors
 * [ENGEL OTIENO] https://github.com/engoti
-* [MAURICE OMBEWA] https://github.com/MauriceOmbewa
 
 * NOTE; MAKE SURE YOU INSTALL GIT BASH ON YOUR WINDOWS COMPUTER THROUGH THIS LINK; https://nodejs.org/en
